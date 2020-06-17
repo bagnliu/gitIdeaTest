@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37f0a24f-851e-4a5c-9f75-9165bcccaa98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/untitled/com/dianying/yiran/model/Movie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled/com/dianying/yiran/service/MovieService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/com/dianying/yiran/model/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/com/dianying/yiran/service/MovieService.java" afterDir="false" />
+    <list default="true" id="37f0a24f-851e-4a5c-9f75-9165bcccaa98" name="Default Changelist" comment="坦克大战">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/com/dianying/yiran/MovieStart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/com/dianying/yiran/MovieStart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/com/dianying/yiran/utils/Scannerutils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/com/dianying/yiran/utils/Scannerutils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/com/dianying/yiran/view/MovieView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/com/dianying/yiran/view/MovieView.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled/dome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/dome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/dianying/yiran/MovieStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/dianying/yiran/MovieStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/dianying/yiran/utils/Scannerutils.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/dianying/yiran/utils/Scannerutils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/com/dianying/yiran/view/MovieView.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/com/dianying/yiran/view/MovieView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled/src/dome.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/dome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -53,26 +47,43 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
+    <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.MovieStart">
-    <configuration name="MovieStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dianying.yiran.MovieStart" />
-      <module name="untitled" />
+  <component name="RunManager" selected="Application.Dome">
+    <configuration name="Dome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Dome" />
+      <module name="tank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dianying.yiran.*" />
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yiran.app.GameMain" />
+      <module name="tank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yiran.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scannerutils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dianying.yiran.utils.Scannerutils" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dianying.yiran.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="dome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dome" />
       <module name="untitled" />
@@ -115,12 +113,24 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MovieStart" />
+        <item itemvalue="Application.Dome" />
+        <item itemvalue="Application.GameMain" />
         <item itemvalue="Application.dome" />
-        <item itemvalue="Application.Scannerutils" />
         <item itemvalue="Application.MovieView" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -133,97 +143,105 @@
       <option name="presentableId" value="Default" />
       <updated>1591502053592</updated>
       <workItem from="1591502058677" duration="1433000" />
-      <workItem from="1591543424375" duration="3368000" />
-      <workItem from="1591580081782" duration="22860000" />
+      <workItem from="1591543424375" duration="3558000" />
+      <workItem from="1591626571009" duration="3884000" />
+      <workItem from="1591709917032" duration="119000" />
+      <workItem from="1591710408579" duration="1699000" />
+      <workItem from="1592144976331" duration="14712000" />
     </task>
-    <task id="LOCAL-00001" summary="lianxi">
-      <created>1591612838354</created>
+    <task id="LOCAL-00001" summary="控制台影院">
+      <created>1591546885330</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1591612838354</updated>
+      <updated>1591546885330</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="坦克大战">
+      <created>1592160415836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592160415836</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lianxi" />
-    <option name="LAST_COMMIT_MESSAGE" value="lianxi" />
+    <MESSAGE value="控制台影院" />
+    <MESSAGE value="坦克大战" />
+    <option name="LAST_COMMIT_MESSAGE" value="坦克大战" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="313" y="96" key="#com.intellij.ide.util.ExportDialog" timestamp="1591601820106">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="313" y="96" key="#com.intellij.ide.util.ExportDialog/0.0.1366.738@0.0.1366.738" timestamp="1591601820106" />
-    <state x="488" y="52" key="#com.intellij.ide.util.MemberChooser" timestamp="1591610544912">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="488" y="52" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1591610544912" />
-    <state x="343" y="0" key="CommitChangelistDialog2" timestamp="1591612834171">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="343" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1591612834171" />
-    <state width="389" height="331" key="DebuggerActiveHint" timestamp="1591600886830">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="389" height="331" key="DebuggerActiveHint/0.0.1366.738@0.0.1366.738" timestamp="1591600886830" />
-    <state width="429" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1591546571701" />
-    <state width="1322" height="171" key="GridCell.Tab.0.bottom" timestamp="1591612612298">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="171" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591612612298" />
-    <state width="1877" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591546843848" />
-    <state width="1322" height="171" key="GridCell.Tab.0.center" timestamp="1591612612297">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="171" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591612612297" />
-    <state width="1877" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591546843848" />
-    <state width="1322" height="171" key="GridCell.Tab.0.left" timestamp="1591612612297">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="171" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591612612297" />
-    <state width="1877" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591546843848" />
-    <state width="1322" height="171" key="GridCell.Tab.0.right" timestamp="1591612612298">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="171" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591612612298" />
-    <state width="1877" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591546843848" />
-    <state width="1322" height="151" key="GridCell.Tab.1.bottom" timestamp="1591607175084">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="151" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591607175084" />
-    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591546756613" />
-    <state width="1322" height="151" key="GridCell.Tab.1.center" timestamp="1591607175084">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="151" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1591607175084" />
-    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591546756613" />
-    <state width="1322" height="151" key="GridCell.Tab.1.left" timestamp="1591607175084">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="151" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1591607175084" />
-    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591546756613" />
-    <state width="1322" height="151" key="GridCell.Tab.1.right" timestamp="1591607175084">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1322" height="151" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1591607175084" />
-    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591546756613" />
-    <state x="393" y="182" key="Vcs.Push.Dialog.v2" timestamp="1591612665109">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="393" y="182" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1591612665109" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591546799232" />
-    <state x="767" y="148" key="extract.method.dialog" timestamp="1591611048915">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="767" y="148" key="extract.method.dialog/0.0.1366.738@0.0.1366.738" timestamp="1591611048915" />
-    <state x="690" y="280" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591544336533" />
-    <state x="334" y="136" key="new project wizard" timestamp="1591504814928">
+    <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1592158961025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="136" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591504814928" />
+    <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592158961025" />
+    <state x="613" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592148154820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="613" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592148154820" />
+    <state x="555" y="117" key="CommitChangelistDialog2" timestamp="1592160414964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592160414964" />
+    <state width="429" height="466" key="DebuggerActiveHint" timestamp="1591546571701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="429" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1591546571701" />
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom" timestamp="1592160460632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592160460632" />
+    <state width="1877" height="338" key="GridCell.Tab.0.center" timestamp="1592160460631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592160460631" />
+    <state width="1877" height="338" key="GridCell.Tab.0.left" timestamp="1592160460631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592160460631" />
+    <state width="1877" height="338" key="GridCell.Tab.0.right" timestamp="1592160460631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592160460631" />
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1592160460632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592160460632" />
+    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1592160460632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592160460632" />
+    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1592160460632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592160460632" />
+    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1592160460632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592160460632" />
+    <state x="440" y="98" key="SettingsEditor" timestamp="1592153389358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592153389358" />
+    <state x="681" y="261" width="549" height="524" key="StructurePopup" timestamp="1592153087676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="549" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1592153087676" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1592160436982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592160436982" />
+    <state x="690" y="280" key="extract.method.dialog" timestamp="1591628217396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="280" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591628217396" />
+    <state x="334" y="136" key="new project wizard" timestamp="1592145067549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="136" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592145067549" />
   </component>
 </project>
