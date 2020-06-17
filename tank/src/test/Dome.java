@@ -36,5 +36,6 @@ public class Dome extends Frame {
         graphics.setColor(Color.red);
         graphics.fillOval(50,50,30,30);
         graphics.setColor(color);
+        System.out.println("////////////////////////////////");
     }
 }

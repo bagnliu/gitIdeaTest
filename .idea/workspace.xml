@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37f0a24f-851e-4a5c-9f75-9165bcccaa98" name="Default Changelist" comment="坦克大战">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="37f0a24f-851e-4a5c-9f75-9165bcccaa98" name="Default Changelist" comment="坦克大战测试学习git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/dome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/dome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/dome.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/dome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tank/src/test/Dome.java" beforeDir="false" afterPath="$PROJECT_DIR$/tank/src/test/Dome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,6 +144,7 @@
       <workItem from="1591709917032" duration="119000" />
       <workItem from="1591710408579" duration="1699000" />
       <workItem from="1592144976331" duration="14712000" />
+      <workItem from="1592402391845" duration="244000" />
     </task>
     <task id="LOCAL-00001" summary="控制台影院">
       <created>1591546885330</created>
@@ -163,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592160415836</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="坦克大战测试学习git">
+      <created>1592402498771</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592402498771</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +176,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="控制台影院" />
     <MESSAGE value="坦克大战" />
-    <option name="LAST_COMMIT_MESSAGE" value="坦克大战" />
+    <MESSAGE value="坦克大战测试学习git" />
+    <option name="LAST_COMMIT_MESSAGE" value="坦克大战测试学习git" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1592158961025">
@@ -183,10 +188,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="613" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592148154820" />
-    <state x="555" y="117" key="CommitChangelistDialog2" timestamp="1592160414964">
+    <state x="555" y="117" key="CommitChangelistDialog2" timestamp="1592402626829">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="555" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592160414964" />
+    <state x="555" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592402626829" />
     <state width="429" height="466" key="DebuggerActiveHint" timestamp="1591546571701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -231,10 +236,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="681" y="261" width="549" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1592153087676" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1592160436982">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1592402592782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592160436982" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592402592782" />
     <state x="690" y="280" key="extract.method.dialog" timestamp="1591628217396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
